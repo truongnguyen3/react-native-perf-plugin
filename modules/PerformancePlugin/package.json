@@ -1,0 +1,14 @@
+{
+  "name": "react-native-perf-plugin",
+  "version": "0.0.0",
+  "description": "none",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNPerformancePluginSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
